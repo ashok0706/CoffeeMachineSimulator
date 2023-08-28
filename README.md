@@ -1,4 +1,4 @@
-                                                   # Coffee Machine Simulator
+# Coffee Machine Simulator
 
 This is a Java console application that simulates a coffee machine. The simulator allows users to perform various actions related to buying coffee, managing ingredients, and analyzing sales.
 
